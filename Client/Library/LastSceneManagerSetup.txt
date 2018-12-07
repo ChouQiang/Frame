@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Art/Scenes/10001/10001.unity
+  isLoaded: 1
+  isActive: 1
